@@ -2,7 +2,7 @@
 <h3 align="center">Study resources and practice tests for Brazilian vestibular exams (ENEM, Fuvest, Unicamp, etc.)</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%20desenvolvido-green?style=flat-square%22%20alt=%22status" />
+  <img src="https://img.shields.io/badge/status-%20desenvolvido-green?style=flat-square%22%20alt=%22status" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
