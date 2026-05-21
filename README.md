@@ -1,4 +1,4 @@
-<h1 align="center"> Pensando Futuro</h1>
+<h1 align="center"> Pensando no Futuro</h1>
 <h3 align="center">Study resources and practice tests for Brazilian vestibular exams (ENEM, Fuvest, Unicamp, etc.)</h3>
 
 <p align="center">
